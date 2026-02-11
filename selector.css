@@ -1,0 +1,18 @@
+body{
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    font: 1em sans-serif;
+}
+.nav-bar{
+    background-color: #333;
+    overflow: hidden;
+    color: white;
+}
+#header{
+    font-family: "Helvetica", sans-serif;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 2em;
+}

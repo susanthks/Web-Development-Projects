@@ -1,0 +1,28 @@
+.body{
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    font-family: "Roboto", sans-serif;
+    color: #914a4a;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.paragraph{
+    font-family: "Roboto", sans-serif;
+    color: #333333;
+    line-height: 1.6;
+    margin: 15px;
+}
+.list{
+    list-style-type: square;
+    margin: 10px;
+    font-family: "Roboto", sans-serif;
+}
+.table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
